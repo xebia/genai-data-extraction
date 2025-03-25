@@ -1,5 +1,5 @@
 # genai-extraction-examples
-Examples of Structured Data Extraction using LLM's
+Examples of Structured Data Extraction using LLM's (Gemini).
 
 ## Usage
 
