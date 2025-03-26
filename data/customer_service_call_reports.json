@@ -1,0 +1,72 @@
+[
+  {
+    "customer_email": "john.davis@email.com",
+    "topics_discussed": [
+      "Login issues",
+      "Password reset",
+      "Browser troubleshooting",
+      "Multi-factor authentication (MFA)"
+    ],
+    "problem_description": "Customer is unable to log in to their SparkleNet account despite resetting their password and being sure they are using the correct credentials.",
+    "root_cause": "The password reset from the previous day was not fully processed due to a temporary glitch in the system.",
+    "solution": "The customer support agent manually triggered a new password reset. The customer received an email with a link to create a new password and was able to log in after resetting it.",
+    "problem_resolved": true,
+    "customer_happiness": "Happy"
+  },
+  {
+    "customer_email": "jane.smith@example.net",
+    "topics_discussed": [
+      "Subscription cancellation",
+      "Billing inquiry",
+      "Refund request",
+      "Account closure"
+    ],
+    "problem_description": "Customer requested to cancel their premium subscription and receive a refund for the remaining unused period.",
+    "root_cause": "The customer was not aware of the automatic subscription renewal policy and found the service no longer necessary.",
+    "solution": "The agent processed the subscription cancellation and issued a partial refund based on the remaining subscription period. The customer received a confirmation email with the refund details.",
+    "problem_resolved": true,
+    "customer_happiness": "Neutral"
+  },
+  {
+    "customer_email": "michael.lee@domain.org",
+    "topics_discussed": [
+      "Software installation",
+      "Error messages",
+      "System compatibility",
+      "License activation"
+    ],
+    "problem_description": "Customer encountered multiple error messages during the software installation process and was unable to activate their license.",
+    "root_cause": "The customer's operating system was not compatible with the latest software version, and the license key was entered incorrectly.",
+    "solution": "The agent verified the customer's operating system and guided them through installing a compatible version. The agent also assisted with correcting the license key and activating the software.",
+    "problem_resolved": true,
+    "customer_happiness": "Happy"
+  },
+  {
+    "customer_email": "sara.jones@service.com",
+    "topics_discussed": [
+      "Data synchronization",
+      "Mobile app issues",
+      "Cloud storage",
+      "Account settings"
+    ],
+    "problem_description": "Customer reported that their data was not synchronizing correctly between their mobile app and cloud storage.",
+    "root_cause": "The mobile app was outdated and had a known bug related to data synchronization. The customer's internet connection was also unstable.",
+    "solution": "The agent instructed the customer to update their mobile app to the latest version and provided troubleshooting steps for their internet connection. The data synchronization issue was resolved after the update and stable connection.",
+    "problem_resolved": true,
+    "customer_happiness": "Happy"
+  },
+  {
+    "customer_email": "david.wilson@corp.net",
+    "topics_discussed": [
+      "API integration",
+      "Documentation clarification",
+      "Rate limiting",
+      "Error codes"
+    ],
+    "problem_description": "Customer was experiencing issues integrating their system with the company's API and had questions about the documentation and rate limiting.",
+    "root_cause": "The API documentation was ambiguous in certain sections, and the customer was exceeding the rate limit unintentionally.",
+    "solution": "The agent provided detailed clarification on the documentation and explained the rate limiting policy. The agent also provided code examples to help with the integration. The customer was able to successfully integrate their system.",
+    "problem_resolved": true,
+    "customer_happiness": "Unhappy"
+  }
+]
